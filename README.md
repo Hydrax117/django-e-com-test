@@ -1,1 +1,1 @@
-# django-e-com-test
+# django-e-com-tests
